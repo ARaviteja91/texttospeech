@@ -8,5 +8,3 @@ This is a simple text to speech app for windows os. Enter the text you would lik
 
 `Avoid words containg (') like "Let's", "That's," , "haven't" etc. `.
 
-
- 
